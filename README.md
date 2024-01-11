@@ -7,7 +7,9 @@ Developer, Scientist, Teacher
 Researcher with 10 years of experience in the field of neutron scattering. My interests also include modifying and developing spectrometer elements to improve the quality of experiments. I have participated in the development of automation tools for spectrometers and data processing. I have been incorporated into developing software (spectrometers control system). Also, I have different cases of my development for data analysis, automation, and websites. I am sure, my previous experience as well as my skillset can be a great addition to a software development team.
 
 * 🌍  I'm based in Budapest, Hungary
+* 🖥️  See my portfolio at [dfgsdfg](http://sdfgdsfgdsfg)
 * ✉️  You can contact me at [igrikg@gmail.com](mailto:igrikg@gmail.com)
+* 🚀  I'm currently working on [ffff](http://ffffff)
 * 🧠  I'm learning React, TS
 
 <a href="https://www.github.com/igrikg" target="_blank" rel="noreferrer"><img
@@ -29,4 +31,16 @@ src="https://img.shields.io/twitter/follow/IhorHapon?logo=twitter&style=for-the-
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/igrikg"><img src="https://github-readme-stats.vercel.app/api?username=igrikg&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=27272a&hide_border=true&show_icons=true" alt="igrikg's GitHub stats" /></a>
+
+<a href="http://www.github.com/igrikg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igrikg&stroke=ffffff&background=27272a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/igrikg"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=igrikg&bg_color=27272a&color=ffffff&line=444e59&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/igrikg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igrikg&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/igrikg/school_operation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=igrikg&repo=school_operation&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
